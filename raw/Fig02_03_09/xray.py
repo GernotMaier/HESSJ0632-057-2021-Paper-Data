@@ -33,16 +33,16 @@ def readXrayRatesFromCSVFile(filecsv ):
         rowobsid=row["ObsID"]
         if rowobsid.find( "xmm" ) >= 0:
             instrument="xmm"
-            obsid="nan"
+            obsid="0"
         elif rowobsid.find( "suz" ) >= 0:
             instrument="suzaku"
-            obsid="nan"
+            obsid="0"
         elif rowobsid.find( "N" ) >= 0:
             instrument="nustar"
-            obsid="nan"
+            obsid="0"
         elif rowobsid.find( "C" ) >= 0:
             instrument="chandra"
-            obsid="nan"
+            obsid="0"
         else:
             instrument="xrt"
             obsid=rowobsid
