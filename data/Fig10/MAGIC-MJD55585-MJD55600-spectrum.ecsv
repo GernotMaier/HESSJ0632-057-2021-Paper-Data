@@ -1,0 +1,14 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_err, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (error)}
+# meta: !!omap
+# - data_type: sed
+# - telescope: magic
+e_ref dnde dnde_err
+0.196   2.1e-12   6.7e-13
+0.494   1.5e-12   3.9e-13
+1.1866   7.2e-13   3.2e-13
+2.8524   3.4e-13   3.0e-13
