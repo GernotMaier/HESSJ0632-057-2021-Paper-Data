@@ -4,8 +4,8 @@
 # - {name: e_min, unit: TeV, datatype: float64, description: lower energy limit for flux integration}
 # - {name: time_min, unit: MJD, datatype: float64, description: time interval (start)}
 # - {name: time_max, unit: MJD, datatype: float64, description: time interval (stop)}
-# - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral flux}
-# - {name: flux_err, unit: cm-2 s-1, datatype: float64, description: error on integral flux}
+# - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral flux (>350 GeV)}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64, description: error on integral flux (>350 GeV)}
 # meta: !!omap
 # - data_type: lc
 # - telescope: magic
