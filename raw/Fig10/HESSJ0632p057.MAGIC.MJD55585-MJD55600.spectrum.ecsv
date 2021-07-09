@@ -1,0 +1,12 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e2dnde, unit:  TeV cm-2 s-1, datatype: float32}
+# - {name: e2dnde_err, unit: TeV cm-2 s-1, datatype: float32}
+# meta: !!omap
+e_ref e2dnde e2dnde_err
+0.196   2.1e-12   6.7e-13
+0.494   1.5e-12   3.9e-13
+1.1866   7.2e-13   3.2e-13
+2.8524   3.4e-13   3.0e-13

@@ -1,0 +1,17 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: e2dnde, unit: cm-2 s-1 TeV, datatype: float32}
+# - {name: e2dnde_err, unit: cm-2 s-1 TeV, datatype: float32}
+# - {name: e2dnde_ul, unit: cm-2 s-1 TeV, datatype: float32}
+# - UL_CONF: 0.95
+e_ref e_min e_max e2dnde e2dnde_err e2dnde_ul
+# agreed to remove this point
+# 0.08590414 nan nan 4.304305e-12
+0.2157674 0.1361400 0.34196 nan nan 1.438021e-12
+0.5419691 0.34196 0.858963  nan nan 1.301721e-12
+1.361351 0.858963 2.157595 nan nan 5.052358e-13
+3.419544 2.157595 5.4196  nan nan 6.58874e-13
