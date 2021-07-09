@@ -1,0 +1,6 @@
+#best-fit slope | slope_min | slope_max | norm@1keV | nom_min | norm_max
+#1.39516 0.861306 1.99843  0.000184995  9.53228e-05 0.000369662
+#E, keV | dE | EF_E, keV/cm2/s | d( EF_E ) | Absorbed plaw model value
+e_ref d_e ef_e ef_e_de pl_v pl_d
+1.72000003 1.42000008 4.68905528E-5 1.18656026E-5 5.24949428E-5  1.51137967E-4
+5.78999996 2.64999962 5.8978959E-4 1.89609418E-4 4.71659587E-4  4.8046271E-4
