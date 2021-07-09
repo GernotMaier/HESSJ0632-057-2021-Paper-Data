@@ -1,0 +1,21 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_err, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (error)}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - telescope: magic
+# - comments: |
+#      orbital phase bin 0.6-0.8
+e_ref e_min e_max dnde dnde_err dnde_ul
+0.08590414 0.0542018 0.1361400 nan nan 9.555824e-12
+0.2157674 0.1361400 0.34196 nan nan 2.524594e-12
+0.5419691 0.34196 0.858963 nan nan 1.454035e-12
+1.361351 0.858963 2.157595 nan nan 6.224033e-13
+3.419544  2.157595 5.4196 nan nan 8.415161e-13
+8.589492 5.4196 13.613427 nan nan 9.03129e-13
