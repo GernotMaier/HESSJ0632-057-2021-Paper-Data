@@ -1,6 +1,6 @@
-# Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release
+# Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes - data release
 
-The results of gamma-ray observations of the binary system HESS J0632+057 collected during 450 hours over 15 years, between 2004 and 2019, with the H.E.S.S., MAGIC, and VERITAS telescopes are presented in *Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes* (**[reference]**).
+The results of gamma-ray observations of the binary system HESS J0632+057 collected during 450 hours over 15 years, between 2004 and 2019, with the H.E.S.S., MAGIC, and VERITAS telescopes are presented in *Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes* (**[reference]**).
 This repository provides access to all processed data presentaed in the publication in csv and ascii format.
 For a detailed description of analysis and data processing, see the associated primary publication.
 
@@ -8,10 +8,16 @@ Primary Reference: **[reference to be added]**.
 
 Publication Year: 2021
 
-Citation: The VERITAS, MAGIC, and H.E.S.S. Collaboration (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
+Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
 
 
-## List of figures
+## List of data:
+
+1. Gamma-ray and X-ray fluxes
+    - (Fig02_03_09/LightCurve-HESS.ecsv)[Fig02_03_09/LightCurve-HESS.ecsv]
+    - (Fig02_03_09/LightCurve-MAGIC.ecsv)[Fig02_03_09/LightCurve-MAGIC.ecsv]
+    - (Fig02_03_09/LightCurve-VERITAS.ecsv)[Fig02_03_09/LightCurve-VERITAS.ecsv]
+    - (Fig02_03_09/LightCurve-XRay.ecsv)[Fig02_03_09/LightCurve-XRay.ecsv]
 
 Figure 2:
 - XRay-HESSJ0632p057-LC.pdf
