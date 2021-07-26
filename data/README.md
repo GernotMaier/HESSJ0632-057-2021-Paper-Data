@@ -1,7 +1,7 @@
 # Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes - data release
 
 The results of gamma-ray observations of the binary system HESS J0632+057 collected during 450 hours over 15 years, between 2004 and 2019, with the H.E.S.S., MAGIC, and VERITAS telescopes are presented in *Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes* (**[reference]**).
-This repository provides access to all processed data presentaed in the publication in csv and ascii format.
+This repository provides access to all processed data presented in the publication in csv and ascii format.
 For a detailed description of analysis and data processing, see the associated primary publication.
 
 Primary Reference: **[reference to be added]**.
@@ -10,6 +10,7 @@ Publication Year: 2021
 
 Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
 
+Licence: see LICENSE.txt
 
 ## List of data:
 
@@ -25,7 +26,7 @@ Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of
     -  Discrete cross-correlation function (DCF) between gamma- ray and X-ray data: [Fig05/DCF-cross-Gamma-XRay-HESSJ0632p057.ecsv](Fig05/DCF-cross-Gamma-XRay-HESSJ0632p057.ecsv)
 4. Gamma-ray vs Optical and X-ray vs Optical correlations (Figure 6):
     - Halpha vs gamma-ray observations: [Fig06/Gamma-ray-Optical-Correlation.ecsv](Fig06/Gamma-ray-Optical-Correlation.ecsv)
-    - Halpha vs X-ray observations" [Fig06/X-ray-Optical-Correlation.ecsv](Fig06/X-ray-Optical-Correlation.ecsv)
+    - Halpha vs X-ray observations: [Fig06/X-ray-Optical-Correlation.ecsv](Fig06/X-ray-Optical-Correlation.ecsv)
 5. Spectral energy distributions (phase averaged; Figure 7 and 8)
     - SEDs from H.E.S.S. observations: [Fig07_08/HESS-phaserange04-spectrum.ecsv](Fig07_08/HESS-phaserange04-spectrum.ecsv), [Fig07_08/HESS-phaserange1-spectrum.ecsv](Fig07_08/HESS-phaserange1-spectrum.ecsv), [Fig07_08/HESS-phaserange2-spectrum.ecsv](Fig07_08/HESS-phaserange2-spectrum.ecsv), [Fig07_08/HESS-phaserange3-spectrum.ecsv](Fig07_08/HESS-phaserange3-spectrum.ecsv)  
     - SEDs from MAGIC observations: [Fig07_08/MAGIC-phaserange04-spectrum.ecsv](Fig07_08/MAGIC-phaserange04-spectrum.ecsv), [Fig07_08/MAGIC-phaserange1-spectrum.ecsv](Fig07_08/MAGIC-phaserange1-spectrum.ecsv), [Fig07_08/MAGIC-phaserange2-spectrum.ecsv](Fig07_08/MAGIC-phaserange2-spectrum.ecsv)
