@@ -4,16 +4,14 @@ The results of gamma-ray observations of the binary system HESS J0632+057 collec
 This repository provides access to all processed data presented in the publication in csv and ascii format.
 For a detailed description of analysis and data processing, see the associated primary publication.
 
-Please cite always the primary reference when using these data.
-
-Primary Reference: **[reference to be added]**.
+Please cite always the following primary reference when using these data:
 
 Publication Year: 2021
 
 Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
 
 Additional information on the gamma-ray observatories:
-- [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/)
+- [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/ and [H.E.S.S. Auxiliary Data Page](https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
 - [MAGIC](https://magic.mpp.mpg.de/)
 - [VERITAS](https://veritas.sao.arizona.edu/)
 
