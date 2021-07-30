@@ -12,8 +12,8 @@ Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of
 
 Additional information on the gamma-ray observatories:
 - [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/ and [H.E.S.S. Auxiliary Data Page](https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
-- [MAGIC](https://magic.mpp.mpg.de/)
-- [VERITAS](https://veritas.sao.arizona.edu/)
+- [MAGIC](https://magic.mpp.mpg.de/) and [MAGIC Data Page](http://vobs.magic.pic.es/fits/)
+- [VERITAS](https://veritas.sao.arizona.edu/) and [VERITAS Data Page](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
 
 This data repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
 
