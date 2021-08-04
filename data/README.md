@@ -11,7 +11,7 @@ Publication Year: 2021
 Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
 
 Additional information on the gamma-ray observatories:
-- [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/ and [H.E.S.S. Auxiliary Data Page](https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
+- [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/) and [H.E.S.S. Auxiliary Data Page](https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
 - [MAGIC](https://magic.mpp.mpg.de/) and [MAGIC Data Page](http://vobs.magic.pic.es/fits/)
 - [VERITAS](https://veritas.sao.arizona.edu/) and [VERITAS Data Page](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
 
