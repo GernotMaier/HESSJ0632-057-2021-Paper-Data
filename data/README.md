@@ -4,7 +4,7 @@ The results of gamma-ray observations of the binary system HESS J0632+057 collec
 This repository provides access to all processed data presented in the publication in csv and ascii format.
 For a detailed description of analysis and data processing, see the associated primary publication.
 
-Please cite always the following primary reference when using these data:
+Please cite always the following primary reference when using these data: **add primary reference**
 
 Publication Year: 2021
 
