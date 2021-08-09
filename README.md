@@ -2,6 +2,7 @@
 
 This repository collects data and metadata for the figures published in the publication *Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes*.
 
+Please use always the following data repository (and cite it): https://zenodo.org/record/5157848
 
 ## List of figures
 
