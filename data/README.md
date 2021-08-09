@@ -11,13 +11,15 @@ Publication Year: 2021
 Citation: The VERITAS, MAGIC, and H.E.S.S. Collaborations (2021). Observation of the gamma-ray binary HESS J0632+057 with the HESS, MAGIC, and VERITAS telescopes - data release. DOI **[DOI to be added]** 
 
 Additional information on the gamma-ray observatories:
-- [H.E.S.S.](https://www.mpi-hd.mpg.de/hfm/HESS/) and [H.E.S.S. Auxiliary Data Page](https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
-- [MAGIC](https://magic.mpp.mpg.de/) and [MAGIC Data Page](http://vobs.magic.pic.es/fits/)
-- [VERITAS](https://veritas.sao.arizona.edu/) and [VERITAS Data Page](https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
+- H.E.S.S. (https://www.mpi-hd.mpg.de/hfm/HESS/) and H.E.S.S. Auxiliary Data Page (https://www.mpi-hd.mpg.de/hfm/HESS/pages/publications/auxiliary/auxinfo_hessj0632_HMVdata.html)
+- MAGIC (https://magic.mpp.mpg.de/) and MAGIC Data Page (http://vobs.magic.pic.es/fits/)
+- VERITAS (https://veritas.sao.arizona.edu/) and VERITAS Data Page (https://github.com/VERITAS-Observatory/VERITAS-VTSCat)
 
 This data repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/
 
 ## List of data:
+
+(best to view with a markdown reader)
 
 1. Gamma-ray and X-ray fluxes (Figures 2, 3, and 9):
     - Gamma-ray integral flux (>350 GeV) from H.E.S.S. observations: [Fig02_03_09/LightCurve-HESS.ecsv](Fig02_03_09/LightCurve-HESS.ecsv)
