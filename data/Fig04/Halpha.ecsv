@@ -11,7 +11,7 @@
 # - {name: FWHMErr, unit: km s-1, datatype: float64, description: error on Halpha FWHM} 
 # meta: !!omap
 # - data_type: lc
-# - telescope: veritas
+# - telescope: [HIDES, ESPaDOnS]
 # - {SED_TYPE: flux}
 # - comments: |
 #       Profile parameters of Halpha
